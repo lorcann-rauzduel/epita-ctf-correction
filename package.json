@@ -1,0 +1,20 @@
+{
+  "name": "epita-ctf",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cast": "^1.1.0",
+    "dotenv": "^17.4.2",
+    "ethers": "^6.16.0"
+  },
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^1.0.0"
+  }
+}
